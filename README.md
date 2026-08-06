@@ -22,22 +22,26 @@ This project provides a comprehensive review of Explainable Artificial Intellige
 The repository will be updated throughout the review process with literature, notes, figures, bibliometric analyses, and supporting materials.
 
 ## Work structure
-XAI4CivilInfrastructure/
+
+```text
+│XAI-Civil-Infrastructure-Review/
 │
 ├── README.md
 ├── data/
+│   ├── raw/
+│   ├── processed/
+│
+├── notebooks/
 │   ├── 01_data_collection/
 │   ├── 02_data_cleaning/
 │   ├── 03_eda/
-│   ├── 04_screening/
-│   └── 05_final_dataset/
-│
-├── notebooks/
+├──
 ├── figures/
 ├── tables/
 ├── references/
 ├── docs/
 └── src/
+```
 
 ## License
 
