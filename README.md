@@ -35,11 +35,12 @@ The repository will be updated throughout the review process with literature, no
 │   ├── 01_data_collection/
 │   ├── 02_data_cleaning/
 │   ├── 03_eda/
-├──
-├── figures/
-├── tables/
+│
+├── papers/
+├── results/
 ├── references/
 ├── docs/
+├── LICENSE/
 └── src/
 ```
 
